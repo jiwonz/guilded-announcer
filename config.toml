@@ -1,4 +1,4 @@
 [config]
 	port = 8080
 	token = "YOUR TOKEN HERE"
-	channel_id = "CHANNEL ID HERE"
+	channel_id = "YOUR ANNOUNCEMENT CHANNEL ID HERE"
